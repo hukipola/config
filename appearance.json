@@ -1,0 +1,18 @@
+{
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian",
+    "tasks_appearence",
+    "zoom"
+  ],
+  "interfaceFontFamily": "Segoe UI",
+  "textFontFamily": "Segoe UI",
+  "monospaceFontFamily": "Courier New",
+  "accentColor": "#2183c0",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "baseFontSizeAction": true
+}
